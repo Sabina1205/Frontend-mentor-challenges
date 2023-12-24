@@ -34,5 +34,5 @@ Practice my existing skills while learning new ones.
 
 ## Author
 
-- Website - [Sabina - Personal website](https://sabina1205.github.io/personal-website/)
+- Website - [Sabina Nuhanovic](https://sabina1205.github.io/personal-website/)
 - Frontend Mentor - [@Sabina1205](https://www.frontendmentor.io/home)
