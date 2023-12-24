@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a completed challenge for the Blog preview card on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Overview
 
@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://blog-preview-card-three.vercel.app/)
+- Live Site URL: [Live](https://blog-preview-card-three.vercel.app/)
 
 ## My process
 
@@ -27,7 +27,7 @@ Users should be able to:
 
 ### What I learned
 
-Through this project I improved building simple cards with HTML and CSS. I checked out my own knowledge.
+Through this project, I improved building simple cards with HTML and CSS. I checked out my own knowledge.
 
 ### Continued development
 
