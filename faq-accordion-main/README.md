@@ -40,8 +40,6 @@ Through this project, I've gone through of process of using forEach method, and 
 
 I plan to expand my knowledge in JavaScript language, as well as practice my current skills and take them on another level.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [FreeCodeCamp Forum](https://forum.freecodecamp.org/) - This forum is a great resource for frontend developers.
