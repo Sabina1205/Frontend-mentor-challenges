@@ -1,9 +1,10 @@
 # Frontend Mentor - FAQs accordion
 
-This is a completed challenge for the FAQs accordion on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-![desktop](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/3bd92b20-3d76-4a25-8079-7e8e6a6f5a07)
+This is a completed challenge for the FAQs accordion on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects. <br> 
+<hr>
+![desktop](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/3bd92b20-3d76-4a25-8079-7e8e6a6f5a07) <br>
 ![mobile](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/fd5810ff-c2e8-4e6d-8f5a-f6480a6205a3)
-
+<hr>
 ## Overview
 
 ### The challenge
