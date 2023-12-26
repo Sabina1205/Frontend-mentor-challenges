@@ -7,6 +7,7 @@ This is a completed challenge for the FAQs accordion on Frontend Mentor. Fronten
 
 ![mobile](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/fd5810ff-c2e8-4e6d-8f5a-f6480a6205a3)
 <hr>
+
 ## Overview
 
 ### The challenge
