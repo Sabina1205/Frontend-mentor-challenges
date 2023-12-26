@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://blog-preview-card-three.vercel.app/)
-- Live Site URL: [Live](https://blog-preview-card-three.vercel.app/)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges/tree/main/faq-accordion-main)
+- Live Site URL: [Live](https://faqs-accordion-two.vercel.app/)
 
 ## My process
 
