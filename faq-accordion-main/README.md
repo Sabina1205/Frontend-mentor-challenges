@@ -34,11 +34,11 @@ Users should be able to:
 
 ### What I learned
 
-Through this project, I've gone through of process of using forEach method, and in general DOM.
+Through this project, I've gone through process of using forEach method, and in general accessing HTML DOM through JavaScript.
 
 ### Continued development
 
-I plan to expand my knowledge in JavaScript language, as well as practice my current skills and take them on another level.
+I plan to expand my knowledge in JavaScript language, as well as practice my current skills and take them on the next level.
 
 ### Useful resources
 
