@@ -8,6 +8,17 @@
 This is a completed challenge Newsletter sign-up form with success message from Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects. <br> 
 <hr>
 
+![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/fef84b97-615d-4739-8e77-e969e9fff913)
+
+![mobile_input](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/29a99a53-2797-45c3-9941-3bf74820815b)
+
+![mobile_success](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/e7cce28f-c216-4fb5-97e4-a454664c72c6)
+
+![mobile_error](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/af62badd-8ea1-430d-95b4-dde63835aa5e)
+
+![desktop_error](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/d06f0845-9ba0-4b42-b6be-9094f8ff3430)
+
+![desktop_success](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/ebba3aea-1206-46b8-adc1-e9aa10f5d6fa)
 
 ## Overview
 
