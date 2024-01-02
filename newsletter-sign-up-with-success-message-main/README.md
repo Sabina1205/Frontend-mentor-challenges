@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges/tree/main/faq-accordion-main)
-- Live Site URL: [Live](https://faqs-accordion-two.vercel.app/)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges/tree/main/newsletter-sign-up-with-success-message-main)
+- Live Site URL: [Live]()
 
 ## My process
 
