@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <title>Frontend Mentor | Newsletter sign-up form with success message</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- DESKTOP CONTAINER -->
+  <div class="container-desktop">
+    <div class="left-content">
+      <h1>Stay updated!</h1>
+      <p class="paragraph">Join 60,000+ product managers receiving monthly updates on:</p>
+      <div class="list">
+        <img src="assets/images/icon-list.svg" alt="icon">
+        <p>Product discovery and building what matters</p>
+      </div>
+      <div class="list">
+        <img src="assets/images/icon-list.svg" alt="icon">
+        <p>Measuring to ensure updates are a success</p>
+      </div>
+      <div class="list">
+        <img src="assets/images/icon-list.svg" alt="icon">
+        <p>And much more!</p>
+      </div>
+      <form class="form-desktop">
+        <div class="paragraph-2">
+          <p class="address">Email address</p>
+          <p id="error_message"></p>
+        </div>
+        <input type="email" id="email" placeholder="email@company.com">
+        <button type="submit" id="submit">Subscribe to monthly newsletter</button>
+      </form>
+    </div>
+    <div class="right-content">
+      <img class="desktop-img" src="assets/images/illustration-sign-up-desktop.svg" alt="desktop-ill">
+      <img class="mobile-img" src="assets/images/illustration-sign-up-mobile.svg" alt="mobile-ill">
+    </div>
+  </div>
+
+  <!-- SUCCESS CONTAINER DESKTOP -->
+  <div class="container-success-desktop">
+    <img src="assets/images/icon-list.svg" alt="check">
+    <h1>Thanks for subscribing!</h1>
+    <p>
+      A confirmation email has been sent to <b>ash@loremcompany.com</b>. 
+      Please open it and click the button inside to confirm your subscription.
+    </p>
+    <button class="dismiss-btn" id="dismiss-btn">Dismiss message</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
