@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges/tree/main/newsletter-sign-up-with-success-message-main)
-- Live Site URL: [Live]()
+- Live Site URL: [Live](https://newsletter-sign-up-with-success-message-kappa.vercel.app/)
 
 ## My process
 
