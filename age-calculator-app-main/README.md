@@ -5,7 +5,17 @@
 This is a completed solution for Age calculator app from Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects. <br> 
 <hr>
 
+![desktop_preview_age](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/f0a83c67-37d7-4ee5-8166-94565f64010e)
+
 ## Overview
+
+## Screecshots
+
+![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/61e91b91-19ce-43f2-876c-52b4c7d66b82)
+
+![error_invalid_date](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/8655f7c3-931c-4374-a706-a37400a02dc7)
+
+![desktop_active_state](https://github.com/Sabina1205/Frontend-mentor-challenges/assets/96692767/9d2bfacb-a9ec-4ddd-88db-30113b222f41)
 
 ### The challenge
 
